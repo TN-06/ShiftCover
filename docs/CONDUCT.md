@@ -23,7 +23,7 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
-* Distracted used of technologies during all team meetings.
+* Distracted use of technology during team meetings, including personal phone use, unrelated browsing, or other off-task activities. As required by 305Soft, phones must be put away and devices may only be used for meeting-related work.
 
 ## Enforcement Responsibilities
 
@@ -37,7 +37,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at kyberchaos12@gmail.com. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at ddipietro8227@gmail.com. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
@@ -69,44 +69,53 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
 
-## Decisions
+## Team Working Agreements
 
-Decisions would be made with the majority vote.
-If theres a tie of any sort, the SCRUM Master makes the final decision.
+The following agreements apply to all ShiftCover team members, including the Scrum Master. We will review them together and revise them by team agreement if our workflow changes.
 
-## Attendance
+### Decisions
 
-We expect for eery meeting people should come unless theres outside reasons. 
-Legitimate reasons sick, emergency
-Make up: communicate with other members and coordinate to make it up
+We will discuss important project decisions as a team and try to reach a consensus. If we cannot agree after everyone has had a chance to explain their position, we will use a majority vote. If the vote is tied, the Scrum Master will make the final decision after considering both sides. Decisions that affect scope, deadlines, or other members' work will be documented in our meeting notes or GitHub Issues.
 
-## Assignments
+### Attendance
 
-Organized way of saying like you want to do a particular and if the SCRUM master agrees, then evenly split up and each member gets to choose which part they want to do. Conflict will be determined by the SCRUM master.
+All members are expected to attend scheduled in-class project meetings and agreed-upon team meetings, whether in person or on Zoom. Illness, family emergencies, unavoidable academic or work obligations, and other serious circumstances are legitimate reasons to miss a meeting. Members should notify the team as early as possible, preferably before the meeting begins; emergencies can be reported afterward. Anyone who misses a meeting must review the notes, follow up on decisions, and coordinate with teammates to complete or make up any missed responsibilities. Course attendance policies still apply independently of these team expectations.
 
-## Participation
+### Assignments
 
-Email, phone number, in person communication, each person talk about what they want to do. Choose which person want to do which assignments.
+We will track assignments using GitHub Issues and our GitHub Project board. Members can volunteer for tasks based on their interests and strengths, and the Scrum Master will coordinate assignments to keep the workload reasonably balanced. Each task should have an owner, clear expectations, and an agreed deadline. If multiple people want the same task or a task is unclaimed, we will discuss options and the Scrum Master will make the assignment decision if necessary.
 
-## Meeting Times and Locations
+Members should communicate blockers or expected delays as soon as they become apparent rather than waiting until a deadline. Work that does not meet the agreed requirements should be revised after constructive feedback. If a member repeatedly fails to complete assigned work, the team will discuss the problem, document agreed next steps, and redistribute tasks when necessary. Persistent problems may be brought to the instructor or teaching assistants; the team does not independently determine course grades.
 
-Meeting would be in coordinated zoom meetings. Other meeting times would be in class.
+### Participation and Communication
 
-## Agenda and Minutes/Notes
+Every member is expected to contribute to planning, development, documentation, and team discussions. We will communicate through our agreed group messaging channel, email, in-person conversations, and Zoom meetings, using GitHub Issues to track project-specific progress and decisions. Members should acknowledge messages that require action within a reasonable period, normally within 24 hours on weekdays, or communicate when they are unavailable.
 
-One person does notes and hands it off every meeting and let the person choose if they want to take notes.
+The team will invite input from every member before major decisions, distribute work fairly, and consider individual strengths and interests when assigning tasks. Members who have less experience with a task should be given opportunities to learn, with support from other teammates when needed.
 
-## Promptness
+### Meeting Times and Locations/Mediums
 
-Try to get the task finished eventually.
+We will meet during required class project sessions and schedule additional Zoom or in-person meetings as needed. Additional meeting times and locations will be chosen by discussing everyone's availability and giving reasonable advance notice. If a member has a legitimate scheduling conflict, the team will try to find an alternative or provide notes and clearly defined follow-up tasks.
 
-## Conversational Courtesies
+### Agendas and Meeting Minutes
 
-"Generic conversation courtesies"
+The Scrum Master will coordinate a short agenda for each planned team meeting, outlining the topics, decisions, and work that need attention. Note-taking will rotate among members, with volunteers welcome, so the responsibility does not always fall on the same person. The note-taker will record attendance, major decisions, assigned action items, owners, and deadlines. Notes will be shared in a location accessible to the whole team, such as a shared Google Drive document or GitHub, ideally within 24 hours of the meeting.
 
-## Enforcement/Feedback
+### Promptness
 
-Try to pull your weight and if it comes to reduce weight, then thats the the route, but it would try to be best to make it equal participations and it would reduce the weight.
+Members are expected to arrive on time, prepared for meetings, and complete their assignments by the agreed deadlines. Anyone who expects to be late or unable to meet a deadline must tell the team as early as possible, explain the blocker, and coordinate a revised plan. Repeated lateness or missed deadlines will be addressed through the feedback and enforcement process below.
+
+### Conversational Courtesies and Technology Use
+
+We will listen actively, avoid interrupting, make room for everyone to speak, and disagree respectfully with ideas rather than attacking individuals. We will keep discussions relevant to the agenda and return to unrelated topics later when possible. Feedback should be specific, constructive, and focused on improving the project.
+
+**305Soft requires no distracted use of technology during any team meeting.** Phones must be put away. Laptops and other devices may be used only for meeting-related activities, such as reviewing documents, taking notes, or working on the project. Members should not text, scroll social media, or browse unrelated content during meetings. Urgent personal matters may be handled by briefly stepping away after notifying the team when practical.
+
+### Enforcement and Feedback
+
+We will start by addressing ordinary missed expectations respectfully and directly, preferably in a private conversation. Members may share feedback one-on-one or during a team check-in, depending on what is most appropriate; the recipient should be given an opportunity to explain their perspective. The Scrum Master will help coordinate follow-up actions and make sure any changes to assignments or deadlines are recorded.
+
+For repeated issues, the team will agree on specific corrective steps and a timeframe for improvement. If the issue continues or cannot be resolved fairly within the team, we will consult the instructor or teaching assistants. Harassment, discrimination, threats, or other serious misconduct should be reported through the enforcement contact listed above or to appropriate course staff and handled under the Contributor Covenant enforcement guidelines. No member should be penalized for raising a concern in good faith.
 
 ## Attribution
 
@@ -123,3 +132,6 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [translations]: https://www.contributor-covenant.org/translations
 
 ## Signatures
+
+<!-- Each team member must upload an image of their handwritten signature to their own Google Drive and add their own Markdown image link below in a separate Git commit. Verify that the image renders in GitHub. Do not add another member's signature on their behalf. -->
+
