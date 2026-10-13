@@ -69,6 +69,45 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
 
+## Decisions
+
+Decisions would be made with the majority vote.
+If theres a tie of any sort, the SCRUM Master makes the final decision.
+
+## Attendance
+
+We expect for eery meeting people should come unless theres outside reasons. 
+Legitimate reasons sick, emergency
+Make up: communicate with other members and coordinate to make it up
+
+## Assignments
+
+Organized way of saying like you want to do a particular and if the SCRUM master agrees, then evenly split up and each member gets to choose which part they want to do. Conflict will be determined by the SCRUM master.
+
+## Participation
+
+Email, phone number, in person communication, each person talk about what they want to do. Choose which person want to do which assignments.
+
+## Meeting Times and Locations
+
+Meeting would be in coordinated zoom meetings. Other meeting times would be in class.
+
+## Agenda and Minutes/Notes
+
+One person does notes and hands it off every meeting and let the person choose if they want to take notes.
+
+## Promptness
+
+Try to get the task finished eventually.
+
+## Conversational Courtesies
+
+"Generic conversation courtesies"
+
+## Enforcement/Feedback
+
+Try to pull your weight and if it comes to reduce weight, then thats the the route, but it would try to be best to make it equal participations and it would reduce the weight.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
@@ -82,3 +121,5 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+## Signatures
